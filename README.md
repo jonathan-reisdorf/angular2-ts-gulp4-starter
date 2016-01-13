@@ -1,7 +1,7 @@
 # Angular2 + TypeScript + gulp4 starter
 
-## This is a template to be used and improved for new angular2 projects.
-## It is based on https://github.com/project-a/frontend-starter
+### This is a template to be used and improved for new angular2 projects.
+### It is based on https://github.com/project-a/frontend-starter
 
 ### 1. Build process
 
