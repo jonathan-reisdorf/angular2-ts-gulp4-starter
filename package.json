@@ -2,13 +2,13 @@
   "name": "frontend-starter",
   "version": "0.0.1",
   "description": "Frontend Starter",
-  "license": "GPL-3.0",
+  "license": "MIT",
   "scripts": {
     "start": "npm run gulp --",
     "gulp": "gulp",
     "test": "echo \"ERR: No test specified!\" && exit 1"
   },
-  "author": "Project A Ventures",
+  "author": "Jonathan Reisdorf",
   "repository": "https://github.com/project-a/frontend-starter.git",
   "devDependencies": {
     "angular2": "^2.0.0-beta.1",
