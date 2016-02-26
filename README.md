@@ -29,3 +29,7 @@ $ npm start -- --tasks
 ##### 1.3.1 Main tasks
 
 use `npm start build` for production or `npm start dev` for development
+
+# License
+
+All files are released under the [MIT license](https://raw.githubusercontent.com/jonathan-reisdorf/angular2-ts-gulp4-starter/master/LICENSE.md).
